@@ -2,6 +2,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](#python)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![arXiv](https://img.shields.io/badge/arXiv-2401.08491-29d634.svg)](https://arxiv.org/abs/2401.08491)
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/acl2025-contrastive-perplexity)](https://api.reuse.software/info/github.com/SAP-samples/acl2025-contrastive-perplexity)
 
 
 #### News
