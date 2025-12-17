@@ -9,14 +9,16 @@
 - **12/17/2025:** :confetti_ball: Source code provided :tada:
 - 05/30/2025: Initial repo created
 
-This repository contains the source code for the ACL 2025 paper:
+This repository contains the source code for the [ACL2 025](https://2025.aclweb.org/) paper: [**Contrastive Perplexity for Controlled Generation: An Application in Detoxifying Large Language Models**](https://arxiv.org/abs/2401.08491)
 
-**"Contrastive Perplexity for Controlled Generation: An Application in Detoxifying Large Language Models"**
+### Abstract
+The generation of toxic content by large language models (LLMs) remains a critical challenge for the safe deployment of language technology. We propose a novel framework for implicit knowledge editing and controlled text generation by fine-tuning LLMs with a prototype-based contrastive perplexity objective. Central to our method is the construction of hard negatives—toxic outputs that are generated through adversarial paraphrasing to be semantically similar and closely matched in length and model probability to their non-toxic counterparts. By training on these challenging and realistic pairs, our approach ensures robust and stable contrastive optimization. Experimental results in the domain of detoxification demonstrate that our method significantly reduces toxic generation while maintaining strong performance on downstream tasks such as commonsense reasoning and reading comprehension. Our findings highlight the effectiveness of leveraging hard negatives for attribute-aware language model fine-tuning.
 
-*Tassilo Klein and Moin Nabi*
+#### Authors:
+ - [Tassilo Klein](https://tjklein.github.io/)
+ - [Moin Nabi](https://moinnabi.github.io/)
 
-📄 [Read the paper on arXiv](https://arxiv.org/abs/2401.08491)
-
+   
 ## Description
 
 The generation of toxic content by large language models (LLMs) remains a critical challenge for the safe deployment of language technology. We propose a novel framework for implicit knowledge editing and controlled text generation by fine-tuning LLMs with a **prototype-based contrastive perplexity objective**. 
@@ -259,12 +261,6 @@ If you use this code in your research, please cite our paper:
   year={2025}
 }
 ```
-
-## Authors
-
-- [Tassilo Klein](https://tjklein.github.io/) - SAP AI Research
-- [Moin Nabi](https://moinnabi.github.io/) - SAP AI Research
-
 
 ## How to obtain support
 [Create an issue](https://github.com/SAP-samples/acl2025-contrastive-perplexity/issues) in this repository if you find a bug or have questions about the content.
