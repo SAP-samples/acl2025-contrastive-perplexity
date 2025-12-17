@@ -1,0 +1,15 @@
+transformers>=4.35.0
+torch>=2.0.0
+peft>=0.6.0
+datasets>=2.14.0
+bitsandbytes>=0.41.0
+einops>=0.7.0
+wandb>=0.15.0
+scipy
+scikit-learn
+tqdm
+rouge-score
+auto-gptq
+accelerate
+sentencepiece
+protobuf
