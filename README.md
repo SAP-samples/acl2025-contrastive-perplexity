@@ -6,7 +6,8 @@
 
 
 #### News
-- **12/17/2025:** :confetti_ball: Source code provided :tada:
+- **12/18/2025:** :confetti_ball: Model provided :tada:
+- 12/17/2025: Source code provided 
 - 05/30/2025: Initial repo created
 
 This repository contains the source code for the [ACL2 025](https://2025.aclweb.org/) paper: [**Contrastive Perplexity for Controlled Generation: An Application in Detoxifying Large Language Models**](https://arxiv.org/abs/2401.08491)
@@ -17,6 +18,12 @@ The generation of toxic content by large language models (LLMs) remains a critic
 #### Authors:
  - [Tassilo Klein](https://tjklein.github.io/)
  - [Moin Nabi](https://moinnabi.github.io/)
+
+
+## Language Models
+
+Language models trained for which the performance is reported in the paper are available at the [Huggingface Model Repository](https://huggingface.co/models):
+ - [https://huggingface.co/TJKlein/ContrastivePerplexity](https://huggingface.co/TJKlein/ContrastivePerplexity)
 
    
 ## Description
