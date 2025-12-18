@@ -14,6 +14,12 @@ Authors: Tassilo Klein, Moin Nabi
 License: Apache 2.0
 """
 
+#
+# SPDX-FileCopyrightText: 2025 SAP SE or an SAP affiliate company
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+
 import transformers
 from dataclasses import dataclass, field
 import numpy as np
