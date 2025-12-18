@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2025 SAP SE or an SAP affiliate company
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # Model Modifications
 
 This directory contains modified versions of HuggingFace transformer models required for contrastive perplexity training.
