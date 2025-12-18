@@ -1,5 +1,9 @@
 #!/bin/bash
-
+#
+# SPDX-FileCopyrightText: 2025 SAP SE or an SAP affiliate company
+#
+# SPDX-License-Identifier: Apache-2.0
+#
 # Script to download and prepare ToxiGen dataset for evaluation
 # Usage: bash scripts/prepare_data.sh
 
